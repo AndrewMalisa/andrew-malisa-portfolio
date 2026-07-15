@@ -11,7 +11,7 @@ export const designCategories: DesignCategory[] = [
     slug: 'brand-identity',
     title: 'Brand Identity',
     description: 'Visual identities built on typography, color systems, and layout composition.',
-    count: 4,
+    count: 2,
   },
   {
     slug: 'event-posters',
